@@ -14,9 +14,10 @@ data_542_project/
 |   # In what ways do Coding Agents contribute tests? 
 ```
 
-## Requirements
-pandas
-ollama
+## Python Packages Required
+`pandas`
+
+`ollama`
 
 [!note] To run `RQ3.ipynb` a local instance of the ollama server must be running.
 
