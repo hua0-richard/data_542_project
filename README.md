@@ -2,7 +2,7 @@
 DATA 542 Project
 
 ```
-PinnaclePoints/
+data_542_project/
 ├── RQ1.ipynb
 |   # 1st Research Question
 |   # Does task type affect the code quality of an agentic AI? Does code quality vary between agents and does an agent’s code quality affect its adoption?
@@ -12,3 +12,4 @@ PinnaclePoints/
 ├── 
 |   # 3rd Reasearch Question
 |   #
+```
