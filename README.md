@@ -15,3 +15,11 @@ data_542_project/
 ```
 
 ## Requirements
+pandas
+ollama
+
+[!note] To run `RQ3.ipynb` a local instance of the ollama server must be running.
+
+To run an instance of an ollama server run `ollama serve`
+
+To install ollama on your system, follow these instructions https://ollama.com/download 
