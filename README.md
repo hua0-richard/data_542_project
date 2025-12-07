@@ -19,7 +19,7 @@ data_542_project/
 
 `ollama`
 
-[!note] To run `RQ3.ipynb` a local instance of the ollama server must be running.
+>[!note] To run `RQ3.ipynb` a local instance of the ollama server must be running.
 
 To run an instance of an ollama server run `ollama serve`
 
