@@ -24,3 +24,6 @@ data_542_project/
 To run an instance of an ollama server run `ollama serve`
 
 To install ollama on your system, follow these instructions https://ollama.com/download 
+
+## Use of GenAI
+GenAI was used in RQ3 to help generate the prompt for Qwen-Coder 2.5 for classifying test types.
